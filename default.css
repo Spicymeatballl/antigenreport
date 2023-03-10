@@ -1,0 +1,47 @@
+body
+{
+    background-color:aliceblue; 
+    font-family: Arial;
+}
+.header {
+  padding: 10px;
+  text-align: center;
+  background: seagreen;
+  color: white;
+  font-size: 20px;
+}
+.box {
+  border: 1px solid black ;
+width: 50%;
+	
+text-align: center;
+    margin:auto;
+}
+.title
+{ 
+     text-align: center;
+     font-size: 40px;
+}
+.button
+{
+    
+    width: 100px;
+    height: 40px;
+    display: inline;
+	margin: 0 auto;
+    background-color: #222;
+    font-family: arial;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+	padding:10px;
+    
+}
+.input
+{
+    width:400px;
+    height:15px;
+    font-size: 15px;
+    padding:10px;
+} 
+ 
